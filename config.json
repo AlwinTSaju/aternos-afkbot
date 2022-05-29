@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"51.79.238.44:25565",
+	"port": "25565",
+	"name": "ArunTraids"
 }
